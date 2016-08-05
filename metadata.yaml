@@ -1,0 +1,54 @@
+_repo: The-History-of-Don-Quixote-Volume-2-Part-41_5944
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Dorè, Gustave
+    - Doré, Louis Auguste Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+  translator:
+    agent_name: Ormsby, John
+    birthdate: 1829
+    deathdate: 1895
+    gutenberg_agent_id: '506'
+    url: http://www.gutenberg.org/2009/agents/506
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - Cervantes, Michel
+    - Saavedra, Miguel de Cervantes
+    - De Cervantes Saavedra, Miguel
+    - Cervantes, Miguel de
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+description: HTML file
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Social life and customs -- 16th century -- Fiction'
+- !lcsh 'Knights and knighthood -- Spain -- Fiction'
+- !lcsh 'Romances'
+- !lcsh 'Picaresque literature'
+- !lcc 'PQ'
+- GITenberg
+title: The History of Don Quixote, Volume 2, Part 41
+url: http://www.gutenberg.org/ebooks/5944
